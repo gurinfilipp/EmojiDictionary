@@ -8,8 +8,7 @@
 import UIKit
 
 class AddEditEmojiTableViewController: UITableViewController {
- let joji = EmojiTableViewController()
-    joji.myString = "Wow"
+ 
     
     var times = 0
 
